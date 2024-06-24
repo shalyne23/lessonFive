@@ -1,0 +1,13 @@
+attribtes;explains more about the element
+<divs>section creation
+css types:inline-applying style directly to html elemrnt
+internal/embedded
+external
+display flex
+css positioning-static relative,fixed,sticky and absolute
+static-normal flow of doc in a webpage
+relative-normal flow,with positioning properties
+fixed-disrupts normal fllow of doc
+sticky-starts with normal then ends with fixed
+
+z-index- allows to position elements under one another
